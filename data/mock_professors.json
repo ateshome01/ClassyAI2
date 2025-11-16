@@ -1,0 +1,137 @@
+{
+  "universities": {
+    "Stanford University": {
+      "CS 101": [
+        {
+          "name": "Dr. Sarah Johnson",
+          "rating": 4.8,
+          "difficulty": 3.2,
+          "reviews": ["Excellent professor, very clear explanations", "Tough but fair grading"]
+        },
+        {
+          "name": "Prof. Michael Chen",
+          "rating": 4.6,
+          "difficulty": 2.8,
+          "reviews": ["Great at explaining complex concepts", "Very approachable"]
+        },
+        {
+          "name": "Dr. Emily Rodriguez",
+          "rating": 4.5,
+          "difficulty": 3.5,
+          "reviews": ["Challenging course but learned a lot", "Good office hours"]
+        },
+        {
+          "name": "Prof. David Kim",
+          "rating": 4.3,
+          "difficulty": 2.5,
+          "reviews": ["Easy to follow lectures", "Helpful with assignments"]
+        }
+      ],
+      "MATH 150": [
+        {
+          "name": "Dr. James Wilson",
+          "rating": 4.9,
+          "difficulty": 3.8,
+          "reviews": ["Best math professor I've had", "Very thorough"]
+        },
+        {
+          "name": "Prof. Lisa Anderson",
+          "rating": 4.7,
+          "difficulty": 3.0,
+          "reviews": ["Clear explanations", "Fair exams"]
+        },
+        {
+          "name": "Dr. Robert Taylor",
+          "rating": 4.4,
+          "difficulty": 3.2,
+          "reviews": ["Good course structure", "Available for help"]
+        }
+      ]
+    },
+    "MIT": {
+      "CS 101": [
+        {
+          "name": "Prof. Alan Turing",
+          "rating": 4.9,
+          "difficulty": 4.5,
+          "reviews": ["Brilliant professor", "Very challenging but rewarding"]
+        },
+        {
+          "name": "Dr. Grace Hopper",
+          "rating": 4.7,
+          "difficulty": 3.8,
+          "reviews": ["Excellent teaching style", "Great real-world examples"]
+        },
+        {
+          "name": "Prof. Tim Berners-Lee",
+          "rating": 4.6,
+          "difficulty": 3.5,
+          "reviews": ["Innovative approach", "Very knowledgeable"]
+        }
+      ],
+      "PHYSICS 201": [
+        {
+          "name": "Dr. Albert Einstein",
+          "rating": 5.0,
+          "difficulty": 4.8,
+          "reviews": ["Legendary professor", "Mind-blowing concepts"]
+        },
+        {
+          "name": "Prof. Marie Curie",
+          "rating": 4.8,
+          "difficulty": 4.0,
+          "reviews": ["Inspiring lectures", "Very detailed"]
+        },
+        {
+          "name": "Dr. Richard Feynman",
+          "rating": 4.9,
+          "difficulty": 4.2,
+          "reviews": ["Amazing explanations", "Makes physics fun"]
+        }
+      ]
+    },
+    "Harvard University": {
+      "ECON 101": [
+        {
+          "name": "Dr. John Keynes",
+          "rating": 4.8,
+          "difficulty": 3.5,
+          "reviews": ["Great economic insights", "Engaging discussions"]
+        },
+        {
+          "name": "Prof. Milton Friedman",
+          "rating": 4.7,
+          "difficulty": 3.8,
+          "reviews": ["Clear economic principles", "Thought-provoking"]
+        },
+        {
+          "name": "Dr. Adam Smith",
+          "rating": 4.6,
+          "difficulty": 3.2,
+          "reviews": ["Classic approach", "Well-structured course"]
+        }
+      ],
+      "HISTORY 200": [
+        {
+          "name": "Prof. Winston Churchill",
+          "rating": 4.9,
+          "difficulty": 3.0,
+          "reviews": ["Fascinating stories", "Great storyteller"]
+        },
+        {
+          "name": "Dr. Eleanor Roosevelt",
+          "rating": 4.7,
+          "difficulty": 2.8,
+          "reviews": ["Inspiring lectures", "Very accessible"]
+        },
+        {
+          "name": "Prof. Martin Luther King",
+          "rating": 4.8,
+          "difficulty": 3.2,
+          "reviews": ["Powerful content", "Excellent discussions"]
+        }
+      ]
+    }
+  }
+}
+
